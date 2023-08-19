@@ -296,9 +296,8 @@ body{
             }
                .link4 {
                    align-items :right;
-                   margin-left :850px;
                    position:relative;
-                   bottom:300px;
-                   
+                   bottom:250px;
+                   margin-left:850px;
               }      
 }
