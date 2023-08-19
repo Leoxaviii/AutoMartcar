@@ -189,6 +189,8 @@ body{
 .footer-col1{
     text-align: left;
     line-height :2;
+    position:relative;
+    top:10px;
 }
 .link2{
     text-decoration: none;
@@ -201,7 +203,8 @@ body{
     grid-template-columns :1fr 1fr 1fr ;
     margin-left :100px ;
     line-height :2;
-    
+    position:relative;
+    bottom:50px;
 }
 .link4{
     display :grid ;
@@ -210,6 +213,8 @@ body{
     grid-template-columns :1fr 1fr 1fr ;
     line-height :2 ;
     margin-left :250px ;
+    position:relative;
+    bottom:140px
 }
 @media(max-width:600px){
     body{
