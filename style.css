@@ -291,10 +291,14 @@ body{
             .link3 {
                 text-align :center ;
                 margin-left :300px ;
+                position:relative;
+                bottom:90px;
             }
                .link4 {
                    align-items :right;
-                   margin-left :600px;
+                   margin-left :850px;
+                   position:relative;
+                   bottom: 250;                  
                    
               }      
 }
