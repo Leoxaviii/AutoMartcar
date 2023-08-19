@@ -298,8 +298,7 @@ body{
                    align-items :right;
                    margin-left :850px;
                    position:relative;
-                 /*  bottom:350px;*/ 
-                   top:30px;
+                  bottom:200px;
                    
               }      
 }
