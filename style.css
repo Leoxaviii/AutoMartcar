@@ -32,8 +32,8 @@ body{
     height:200px;
     margin-top :10px ;
 }
-    /*.text{
-    position :absolute;
+    .text{
+  /*  position :absolute;
     color:white;
     top:30%;
     background-color :purple ;
