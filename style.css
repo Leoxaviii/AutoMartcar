@@ -32,14 +32,17 @@ body{
     height:200px;
     margin-top :10px ;
 }
-    .text{
+    /*.text{
     position :absolute;
     color:white;
     top:30%;
     background-color :purple ;
     width:100%;
     text-align:center;
-    margin-top:120px ;
+    margin-top:120px ;*/
+    position:relative;
+    background-color:purple;
+    bottom:20px;
 }
 .get{
    background:rebeccapurple;
