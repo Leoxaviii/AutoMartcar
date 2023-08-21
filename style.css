@@ -70,7 +70,9 @@ body{
 .bodytype{
     text-align :left ;
    font-size :10px;
-    margin-top :20px ;   
+    margin-top :20px ;
+    justify-content:space-between;
+    flex-wrap:wrap;
 }
 .model{
     padding :10px ;
