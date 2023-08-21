@@ -64,9 +64,9 @@ body{
     margin-top :60px ;
 }
 .bodytype{
-    line-height :2 ;
+    line-height :1 ;
     text-align :left ;
-    font-size :13px;
+   /* font-size :13px;*/
     margin-top :20px ;   
 }
 .model{
@@ -77,8 +77,8 @@ body{
 }
 .markers{
     text-transform :uppercase ;
-    line-height :2 ;
-    font-size :13px ;
+    line-height :1 ;
+/*    font-size :13px ;/*
     text-align :left ;
     margin-bottom:30px ;
     margin-top :20px ;
