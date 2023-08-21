@@ -71,7 +71,7 @@ body{
 }
 .model{
     padding :10px ;
-    width:250px;
+    width:100%;
     border-radius :10px ;
     margin-left :10px;
 }
@@ -279,7 +279,8 @@ body{
                height:500px ;
             }
            .grid{
-               width:400px;
+               width:100%;
+               line-height:2;
            }
            .footer{
                width :100%;
