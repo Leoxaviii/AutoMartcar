@@ -74,7 +74,7 @@ body{
 }
 .model{
     padding :10px ;
-    width:100%;
+    width:100px;
     border-radius :10px ;
     margin-left :10px;
     margin-bottom:20px;
@@ -82,8 +82,7 @@ body{
 .markers{
     text-transform :uppercase ;
     font-size :10px ;
-    text-align :left ;
-    margin-bottom:30px ;
+    text-align :left;
     margin-top :20px ;
 }
 .center{
