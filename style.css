@@ -67,6 +67,7 @@ body{
     text-align :left ;
    font-size :11px;
     margin-top :20px ;
+    margin-bottom:10px;
 }
 .bodytype1{
     margin-bottom:10px;
@@ -75,16 +76,16 @@ body{
     padding :10px ;
     width:100px;
     border-radius :10px ;
-    margin-bottom:30px;
 }
 .markers{
     text-transform :uppercase ;
     font-size :11px ;
     text-align :left;
     margin-top :20px ;
+    margin-bottom:10px;
 }
 .markers1 {
-    margin-left :130px;
+    margin-left :125px;
     margin-bottom:15px;
 }
 .center{
@@ -255,7 +256,7 @@ body{
              justify-content :space-around;
                  }
            .model{
-               width:250px;
+               width:300px; 
            }
           .bodytype {
               font-size:10px;
