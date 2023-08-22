@@ -61,6 +61,7 @@ body{
 }*/
 .seperate{
     display :flex ;
+    justify-content:space-between;
 }
 .bodytype{
     text-align :left ;
@@ -83,7 +84,7 @@ body{
     margin-top :20px ;
 }
 .markers1 {
-    margin-left=100px;
+    margin-left :100px;
     margin-bottom:10px;
 }
 .center{
@@ -256,7 +257,13 @@ body{
            .model{
                width:200px;
            }
-                          .border{
+          .bodytype {
+              font-size:15px;
+          } 
+          .markers {
+              font-size:15px;
+          }   
+           .border{
                width :200px ;
            }
            .border2{
