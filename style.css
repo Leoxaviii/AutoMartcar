@@ -84,8 +84,8 @@ body{
     margin-top :20px ;
 }
 .markers1 {
-    margin-left :100px;
-    margin-bottom:10px;
+    margin-left :150px;
+    margin-bottom:15px;
 }
 .center{
     text-align :center ;
@@ -255,7 +255,7 @@ body{
              justify-content :space-around;
                  }
            .model{
-               width:200px;
+               width:250px;
            }
           .bodytype {
               font-size:15px;
