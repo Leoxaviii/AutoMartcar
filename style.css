@@ -65,6 +65,7 @@ body{
     text-align :center ;
     margin-top :50px ;
     justify-content:space-between;
+    flex-wrap:wrap;
 }
 .bodytype{
     text-align :left ;
