@@ -84,7 +84,7 @@ body{
     margin-top :20px ;
 }
 .markers1 {
-    margin-left :150px;
+    margin-left :130px;
     margin-bottom:15px;
 }
 .center{
@@ -258,12 +258,15 @@ body{
                width:250px;
            }
           .bodytype {
-              font-size:15px;
-          } 
+              font-size:10px;
+              font-family:sans-serif Hervetica;        } 
           .markers {
-              font-size:15px;
-          }   
-           .border{
+              font-size:10px;
+              font-family:Red hat display,Gill Sans Extrabold;
+          }
+        .markers1 {
+            margin-top:10px;
+        }           .border{
                width :200px ;
            }
            .border2{
